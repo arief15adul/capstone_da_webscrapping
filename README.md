@@ -12,7 +12,7 @@ Projek ini dikembangkan sebagai salah satu capstone project dari Algoritma Acade
 Atau Bapak Ibu cukup menginstall requirements.txt dengan cara berikut
 
 ```python
-pip install -r requirements.txt
+pip install -r capstone_project_library.txt
 ```
 
 ## Rubics
